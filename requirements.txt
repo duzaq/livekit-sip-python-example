@@ -1,0 +1,5 @@
+livekit
+flask
+asyncio
+openai
+silero-vad
